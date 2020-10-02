@@ -1,2 +1,2 @@
 # book_scraper_python
-A  web scraper for get the books info from allitbooks.com and amazon.com
+A  web scraper for get an amazing and awsome books info from allitbooks.com and amazon.com
